@@ -36,3 +36,7 @@ build/
 /gradlew
 /gradlew.bat
 /social-network.eml
+/.gradle/
+/.idea/
+/.mvn/
+/.settings/
